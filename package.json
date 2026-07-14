@@ -1,0 +1,10 @@
+{
+  "name": "meta-ads-mcp-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx meta-ads-mcp"
+  },
+  "dependencies": {
+    "meta-ads-mcp": "latest"
+  }
+}
