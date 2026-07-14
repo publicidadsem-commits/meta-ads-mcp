@@ -2,9 +2,11 @@
   "name": "meta-ads-mcp-server",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx meta-ads-mcp"
+    "start": "node server.js"
   },
   "dependencies": {
-    "meta-ads-mcp": "latest"
+    "meta-ads-mcp": "latest",
+    "express": "latest",
+    "cors": "latest"
   }
 }
